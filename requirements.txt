@@ -1,1 +1,5 @@
-streamlit
+streamlit==1.33.0
+pandas==2.2.2
+pydeck==0.8.1b0
+geopy==2.4.1
+requests==2.31.0
